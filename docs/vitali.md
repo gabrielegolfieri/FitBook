@@ -1,5 +1,7 @@
 # Parametri vitali
 
+---
+
 ## 👣 **Passi**
 
 <iframe src="grafico_interattivo_passi.html" width="800" height="400"></iframe>
@@ -24,7 +26,7 @@
 
 <br>
 
-## 💤 **Qualità del sonno**
+## 💤 **Fasi del sonno**
 
 <iframe src="grafico_interattivo_sonno.html" width="800" height="400"></iframe>
 

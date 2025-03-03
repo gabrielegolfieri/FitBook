@@ -3,5 +3,11 @@ nav:
   - Home: index.md
   - Vitali: vitali.md
   - OMS: OMS.md
-theme: material
+  - Suggerimenti: suggerimenti.md
+theme:
+  name: material
+  language: it
+extra:
+  generator: false
+
 use_directory_urls: false
