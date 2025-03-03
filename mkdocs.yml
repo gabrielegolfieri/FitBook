@@ -3,5 +3,5 @@ nav:
   - Home: index.md
   - Vitali: vitali.md
   - OMS: OMS.md
-theme:
-  name: material
+theme: material
+use_directory_urls: false
