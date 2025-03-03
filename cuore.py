@@ -5,8 +5,7 @@ frequenza = [70, 75, 76, 77, 75, 110, 113, 75, 77, 114, 115, 77, 77]
 
 fig = go.Figure()
 
-fig.add_trace(go.Scatter(x=tempi, y=frequenza, mode='lines+markers', name="Frequenza", 
-                         yaxis='y1', line=dict(color='crimson')))
+fig.add_trace(go.Scatter(x=tempi, y=frequenza, mode='lines+markers', name="Frequenza", line=dict(color='crimson')))
 
 fig.update_layout(
     title="Frequenza Cardiaca",

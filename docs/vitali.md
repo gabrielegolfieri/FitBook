@@ -1,19 +1,31 @@
-# **Passi**
+# Parametri vitali
+
+## 👣 **Passi**
 
 <iframe src="/grafico_interattivo_passi.html" width="800" height="400"></iframe>
 
-# **Cardiaco**
+<br>
+
+## 🫀 **Frequenza Cardiaca**
 
 <iframe src="/grafico_interattivo_cuore.html" width="800" height="400"></iframe>
 
-# **Respirazione**
+<br>
+
+## 🫁 **Respirazione**
 
 <iframe src="/grafico_interattivo_respirazione.html" width="800" height="400"></iframe>
 
-# **Temperatura del polso**
+<br>
+
+## 🌡️ **Temperatura del polso**
 
 <iframe src="/grafico_interattivo_polso.html" width="800" height="400"></iframe>
 
-# **Qualità del sonno**
+<br>
+
+## 💤 **Qualità del sonno**
 
 <iframe src="/grafico_interattivo_sonno.html" width="800" height="400"></iframe>
+
+<br>

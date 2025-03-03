@@ -5,4 +5,3 @@ nav:
   - OMS: OMS.md
 theme:
   name: material
-  user_color_mode_toggle:
