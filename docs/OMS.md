@@ -2,7 +2,11 @@
 
 ## 🏅 **Numero adeguato di passi**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sit amet nisl placerat, mattis elit sed, mollis ante. Praesent a egestas odio. In hac habitasse platea dictumst. Aliquam at lacus massa. Vestibulum faucibus risus elit, fermentum blandit nisi luctus quis. Quisque malesuada maximus mi, sit amet congue orci vehicula eget. Fusce consequat tellus gravida tellus viverra, vitae porttitor nulla ultrices. Nam in pellentesque ante. Integer lacus orci, interdum vitae gravida nec, egestas eget purus.
+L'*OMS* raccomanda di fare almeno diecimila passi al giorno. Diecimila da spalmare lungo tutto l’arco della giornata, senza pressioni, ma rimanendo comunque attivi e positivi.
+
+Il giusto numero di passi però dipende da tanti fattori, i quali incidono sul numero di passi che dovresti fare ogni giorno. Età, forma fisica, caratteristiche individuali possono fare una differenza davvera significativa sul numero adeguato. Se non hai problemi fisici che potrebbero rendere difficoltosa la camminata, si consiglia di cominciare con 30 minuti al giorno da aggiungere al movimento che si fa già.
+
+[Ulteriori informazioni](https://www.borotalco.com/it/quanti-passi-bisogna-fare-al-giorno/)
 
 ## 💕 **Frequenza cardiaca consona**
 
