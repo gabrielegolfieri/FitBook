@@ -13,4 +13,4 @@ fig.update_layout(
     yaxis_title="Temperatura del polso (°C)"
 )
 
-fig.write_html("docs/grafico_interattivo_polso.html")
+fig.write_html("../docs/grafico_interattivo_polso.html")

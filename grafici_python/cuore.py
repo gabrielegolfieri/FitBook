@@ -14,4 +14,4 @@ fig.update_layout(
     template="plotly_white"
 )
 
-fig.write_html("docs/grafico_interattivo_cuore.html")
+fig.write_html("../docs/grafico_interattivo_cuore.html")

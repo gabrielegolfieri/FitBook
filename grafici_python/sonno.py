@@ -9,4 +9,4 @@ fig.update_layout(
     title="Distribuzione del sonno"
 )
 
-fig.write_html("docs/grafico_interattivo_sonno.html")
+fig.write_html("../docs/grafico_interattivo_sonno.html")

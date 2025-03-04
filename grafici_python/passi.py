@@ -12,4 +12,4 @@ fig.update_layout(
     yaxis_title="Numero di Passi"
 )
 
-fig.write_html("docs/grafico_interattivo_passi.html")
+fig.write_html("../docs/grafico_interattivo_passi.html")
