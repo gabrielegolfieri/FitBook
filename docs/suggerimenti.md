@@ -5,18 +5,27 @@
 Le abitudini quotidiane influenzano la salute, la produttività e il benessere. Migliorarle significa costruire una versione migliore di sé.
 
 **Muoviti di più:**
+
 - Fai almeno 30 minuti di attività fisica al giorno.
+
 - Alterna forza, resistenza e flessibilità.
+
 - Mantieni una postura corretta.
 
 **Mangia meglio:**
+
 - Punta a mangiare cibi freschi e nutrienti.
+
 - Bevi molta acqua.
+
 - Riduci zuccheri e cibi ultra-processati.
 
 **Dormi meglio:**
+
 - Dormi circa 7-9 ore a notte.
+
 - La sera riduci gli schermi.
+
 - Fai pause durante la giornata.
 
 Piccole azioni quotidiane portano grandi risultati!
