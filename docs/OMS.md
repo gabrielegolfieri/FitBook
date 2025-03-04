@@ -1,7 +1,5 @@
 # Direttive OMS per una lettura corretta dei dati
 
-[Sito ufficiale OMS](https://www.who.int/)
-
 ## 🏅 **Numero adeguato di passi**
 
 L'*OMS* raccomanda di fare almeno diecimila passi al giorno. Diecimila da spalmare lungo tutto l’arco della giornata, senza pressioni, ma rimanendo comunque attivi e positivi.
@@ -25,3 +23,9 @@ Curabitur ante mauris, placerat in mauris id, eleifend venenatis erat. Aenean er
 ## 🌃 **Qualità del sonno**
 
 Donec turpis ante, fermentum id volutpat id, feugiat ut augue. Duis hendrerit dignissim enim nec aliquet. Vestibulum tempus congue ultrices. Proin non lorem vulputate, feugiat ipsum sed, vehicula mi. Nulla maximus lorem nisi, ut suscipit metus sodales non. Sed blandit tellus fermentum purus lacinia ultrices. Curabitur commodo turpis eget commodo fermentum. Duis ullamcorper leo convallis vestibulum dignissim. Vivamus vitae pellentesque felis, in elementum ante. Proin convallis eu augue non vestibulum. Curabitur molestie pulvinar orci, a rhoncus felis rutrum eu. Nullam finibus lacus a sem viverra accumsan. Aenean ut vestibulum quam. Duis lacinia porta tellus, nec hendrerit ex tempus ornare. Phasellus convallis congue magna. Praesent venenatis risus quis pharetra consectetur.
+
+---
+
+Per una lettura più approfondita consultare il [Sito ufficiale OMS](https://www.who.int/)
+
+---
