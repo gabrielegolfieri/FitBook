@@ -1,8 +1,8 @@
 site_name: FitBook
 nav:
   - Home: index.md
-  - Vitali: vitali.md
-  - OMS: OMS.md
+  - Segni Vitali: vitali.md
+  - Direttive OMS: OMS.md
   - Suggerimenti: suggerimenti.md
 theme:
   name: material

@@ -19,7 +19,7 @@ Con FitBook, puoi accedere facilmente ai tuoi dati vitali e alle direttive dell'
 
 ### 🧑‍⚕️ **I tuoi Vitali**
 Dai un'occhiata ai tuoi principali dati di salute e monitora il tuo progresso.
-[Esplora i tuoi Vitali](vitali.md)
+[Esplora i tuoi Segni Vitali](vitali.md)
 
 ### 📚 **Le Direttive OMS**
 Confronta i tuoi dati con le linee guida mondiali per la salute.
