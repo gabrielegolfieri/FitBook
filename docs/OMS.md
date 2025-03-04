@@ -1,5 +1,7 @@
 # Direttive OMS per una lettura corretta dei dati
 
+[Sito ufficiale OMS](https://www.who.int/)
+
 ## 🏅 **Numero adeguato di passi**
 
 L'*OMS* raccomanda di fare almeno diecimila passi al giorno. Diecimila da spalmare lungo tutto l’arco della giornata, senza pressioni, ma rimanendo comunque attivi e positivi.

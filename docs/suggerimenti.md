@@ -2,7 +2,24 @@
 
 ## 💪 **Scopri il tuo potenziale**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae fermentum diam. Integer id lobortis risus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nullam commodo metus sit amet iaculis mollis. Suspendisse lorem tellus, volutpat vitae mi at, sollicitudin rutrum nisi. Nam lobortis dolor a justo ullamcorper interdum. Fusce vulputate scelerisque semper. Vivamus varius ac purus in aliquam. Ut eu mauris neque.
+Le abitudini quotidiane influenzano la salute, la produttività e il benessere. Migliorarle significa costruire una versione migliore di sé.
+
+**Muoviti di più:**
+- Fai almeno 30 minuti di attività fisica al giorno.
+- Alterna forza, resistenza e flessibilità.
+- Mantieni una postura corretta.
+
+**Mangia meglio:**
+- Punta a mangiare cibi freschi e nutrienti.
+- Bevi molta acqua.
+- Riduci zuccheri e cibi ultra-processati.
+
+**Dormi meglio:**
+- Dormi circa 7-9 ore a notte.
+- La sera riduci gli schermi.
+- Fai pause durante la giornata.
+
+Piccole azioni quotidiane portano grandi risultati!
 
 ## 🎯 **Fissa degli obiettivi**
 
