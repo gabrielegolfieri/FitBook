@@ -6,7 +6,7 @@ FitBook ti aiuta a capire i dati raccolti dai tuoi dispositivi smart e ti offre 
 
 ---
 
-## 👓 Panoramica
+## 🔭 Panoramica
 
 Con FitBook, puoi accedere facilmente ai tuoi dati vitali e alle direttive dell'Organizzazione Mondiale della Sanità (OMS). Ecco cosa troverai:
 
