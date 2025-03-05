@@ -2,11 +2,11 @@
 
 **Il tuo compagno di viaggio per monitorare la salute e migliorare il benessere.**
 
-FitBook ti aiuta a capire i dati raccolti dai tuoi dispositivi smart (come smartwatch e braccialetti fitness) e ti offre suggerimenti personalizzati per vivere meglio.
+FitBook ti aiuta a capire i dati raccolti dai tuoi dispositivi smart e ti offre suggerimenti personalizzati per vivere meglio.
 
 ---
 
-## Panoramica
+## 👓 Panoramica
 
 Con FitBook, puoi accedere facilmente ai tuoi dati vitali e alle direttive dell'Organizzazione Mondiale della Sanità (OMS). Ecco cosa troverai:
 
@@ -18,7 +18,7 @@ Con FitBook, puoi accedere facilmente ai tuoi dati vitali e alle direttive dell'
 
 ---
 
-## Naviga nel tuo FitBook
+## 🧭 Naviga nel tuo FitBook
 
 ### 🧑‍⚕️ **I tuoi Vitali**
 
